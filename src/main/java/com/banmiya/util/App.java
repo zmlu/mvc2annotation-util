@@ -25,7 +25,7 @@ public class App {
 	/**
 	 * main/java 路径
 	 */
-	private static String PROJECT_ROOT = "/Users/luzhoumin/Developer/echemi/codeup/echemi_supplier/src/main/java/";
+	private static String PROJECT_ROOT = "/Users/luzhoumin/Developer/echemi/codeup/echemi_backstage/src/main/java/";
 	
 	public static void main(String[] args) {
 		String business = FileUtil.readString(new File(BUSINESS_XML), StandardCharsets.UTF_8);
