@@ -7,8 +7,29 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>mvc2annotion</name>
-  <url>http://maven.apache.org</url>
+  <name>mvc2annotation-util</name>
+  <description>Convert SpringMVC dispatcher xml to SpringBoot annotation</description>
+  <url>https://github.com/zmlu/mvc2annotation-util</url>
+
+  <licenses>
+    <license>
+      <name>Server Side Public License</name>
+      <url>https://www.mongodb.com/licensing/server-side-public-license</url>
+      <distribution>repo</distribution>
+      <comments>A not business-friendly OSS license</comments>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Zhoumin Lu</name>
+      <id>zhouminlu</id>
+      <email>zhouminlu1303@gmail.com</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+      <timezone>+8</timezone>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
